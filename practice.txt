@@ -7,3 +7,10 @@ project tesla
 project tista
 project bridge
 project dream
+
+## tire production
+
+1. r&defined
+2. invent procedure
+3. helper tools
+4. marketing
